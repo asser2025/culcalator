@@ -1,7 +1,7 @@
 #mianDiv{
     width: 65%;
     max-width: 500px;
-    background-color: yellow;
+    background-color: black;
     margin: auto;
     margin-top: 50px;
     padding: 10px;
@@ -23,7 +23,7 @@
 .btn{
     width: 15%;
     padding: 10px;
-    background-image: linear-gradient(#a5a5f6, #484894);
+    background-image: linear-gradient( red,red);
     font-size: 25px;
     color: white;
     text-align: center;
@@ -34,11 +34,10 @@
 .btn:hover{
     cursor: pointer;
     background-image: none;
-    background-color: #484894;
 }
 .btn:active{
     background-image: none;
-    background-color: #272758;
+    background-color:red;
 }
 #clearbtn{
     width: 40%;
