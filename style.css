@@ -7,7 +7,7 @@
     padding: 10px;
     border: 10px double red;
     border-radius: 20px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #resultDiv{
     background-color: white;
@@ -23,7 +23,7 @@
 .btn{
     width: 15%;
     padding: 10px;
-    background-image: linear-gradient( red,red);
+    background-color: red;
     font-size: 25px;
     color: white;
     text-align: center;
